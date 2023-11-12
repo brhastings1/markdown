@@ -113,7 +113,15 @@ After initialize, branch at bottom left shows main
 To change name to something different, open command pallet with shift-Cmd-P and type Rename Branch, enter new name and new name shows at lower left in place of main.
 
 
-In source control, files show with U to indicate unstaged
+In source control, files show with "U" to indicate unstaged
 ![](03_Files_show_unnamed.jpg)
-Select "+" beside "Changes" to add all to staging area or the "+" beside the individual files to stage one file.
+
+Select "+" beside "Changes" to add all to staging area or the "+" beside the individual files to stage one file. "U" changes to "A" to indicated has been added to staging area.
+
+To commit, add a message describing the change that is being committed.
+![](04_Commit_desc.jpg)
+
+Select check mark above commit description, to commit.  This commits locally. After commit with the check mark, will see a button to publish the commit to GitHub. Click allow on dialogue, authorization process starts, give GitHub permission to open VSCode. Choose repository type as public, then can open on GitHub.
+
+
 
