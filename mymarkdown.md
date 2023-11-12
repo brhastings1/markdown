@@ -111,7 +111,7 @@ Use img tag in a table to place text beside an image; control the size with the 
 Open VSCode in folder that will sync with remote repository
 Select Source Control Icon - Left side toolbar
 
-![](02_Branch_bottomleft_main.jpg)
+
 ![](00_initialize_repository.jpg)
 
 After initialize, branch at bottom left shows main
@@ -132,6 +132,10 @@ To commit, add a message describing the change that is being committed.
 ![](04_Commit_desc.jpg)
 
 Select check mark above commit description, to commit.  This commits locally. After commit with the check mark, will see a button to publish the commit to GitHub. Click allow on dialogue, authorization process starts, give GitHub permission to open VSCode. Choose repository type as public, then can open on GitHub.
+
+![](00_Initialize_repository.jpg)
+
+
 
 
 
