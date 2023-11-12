@@ -12,6 +12,38 @@
 - [Use Tables to render text beside an image](#use-tables-to-render-text-beside-an-image)
 - [Git-hub Setup and Use](#git-hub-setup-and-use)
 - [Initialize folder to reflect repository](#initialize-folder-to-reflect-repository)
+
+## Markdown Summary
+
+|Element| |Markdown|
+|:-------:|---|:--------|
+|Block quote| |add > and 1 space before text|
+|Nested quote| |add >> and 1 space before text|
+|Headings| |add # and 1 space before text or multiple #|
+|Line break| |add 2 spaces in text string, will break there|
+|Horiz Rule| |add *** on its own line|
+|Italics| |surround text with *|
+|Bold| |surround text with **|
+|Bold & Italics| |surround text with ***|
+|Underline| |surround text with `<u></u>`|
+|Strikethrough| |surround text with ~~|
+|Highlight| |surround text with ==|
+|Subscript| |surround text with ~|
+|Superscript| |surround text with ^|
+|Emoji| |surround text with :emoji name:|
+|Inline Code| |surround text with ` (backticks)|
+|Code Block| |3 backticks on line before and after block|
+|Links| |`[label](url)`|
+|Code Block| |3 backticks on line before and after block|
+|New Paragraph| |Blank line between two text strings|
+|Image| |`![alt text](path) or ![alt text](url)`|
+|Image2| |`<img src="filename.jpg" width="120" />`|
+|Ordered List| |any number and space before list text|
+|Ordered SubList| |indented any number and space before list text|
+|Unordered List| |asterisk and space before list text|
+|Unordered SubList| |indented asterisk and space before list text|
+|Table justify| | :--- left, ---: right, :---: center |
+
 ## Create Markdown File
 Create a new file with the extension .md - Shows Markdown in bottom status bar at left -- <img src="markdown_statusbar.jpg" width="120" />
 
@@ -21,7 +53,7 @@ To Preview markdown file - ***Ctrl-K*** followed by letter ***"v"***
 
 ## VSCode extension
 
-Markdown All in One, v3.5.1, Yu Zhang, 7,434,057. How do get commands to run from command pallet? 
+Markdown All in One, v3.5.1, Yu Zhang, 7,434,057.  
 
 ### ... Create VSCode TOC
 
