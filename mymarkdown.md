@@ -9,6 +9,8 @@
 - [Image size control](#image-size-control)
 - [Tables with long text in each cell](#tables-with-long-text-in-each-cell)
 - [Use Tables to render text beside an image](#use-tables-to-render-text-beside-an-image)
+- [Git-hub Setup and Use](#git-hub-setup-and-use)
+- [Initialize folder to reflect repository](#initialize-folder-to-reflect-repository)
 ## Create Markdown File
 Create a new file with the extension .md - Shows Markdown in bottom status bar at left -- <img src="markdown_statusbar.jpg" width="120" />
 
@@ -99,7 +101,7 @@ Use img tag in a table to place text beside an image; control the size with the 
 
 ## Git-hub Setup and Use
 
-### Initialize folder to reflect repository
+## Initialize folder to reflect repository
 
 1. Open VSCode in folder that will sync with remote repository
 2. Select Source Control Icon - Left side toolbar
@@ -114,6 +116,7 @@ To change name to something different, open command pallet with shift-Cmd-P and 
 
 
 In source control, files show with "U" to indicate unstaged
+
 ![](03_Files_show_unnamed.jpg)
 
 Select "+" beside "Changes" to add all to staging area or the "+" beside the individual files to stage one file. "U" changes to "A" to indicated has been added to staging area.
