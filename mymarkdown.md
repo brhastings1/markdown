@@ -111,6 +111,7 @@ Use img tag in a table to place text beside an image; control the size with the 
 Open VSCode in folder that will sync with remote repository
 Select Source Control Icon - Left side toolbar
 
+![](02_Branch_bottomleft_main.jpg)
 ![](01_initialize_repository.jpg)
 
 After initialize, branch at bottom left shows main
