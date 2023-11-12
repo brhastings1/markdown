@@ -104,7 +104,7 @@ Use img tag in a table to place text beside an image; control the size with the 
 |-----|-----|
 |This is some text that you want to have next to an image. Control the image size by adjusting the image width property.| <img src="markdown_statusbar.jpg" width="400" /> |
 
-## Git-hub Setup and Use
+# Git-hub Setup and Use
 
 ## Initialize folder to reflect repository
 
