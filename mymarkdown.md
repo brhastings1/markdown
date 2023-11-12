@@ -5,6 +5,7 @@
 - [VSCode extension](#vscode-extension)
   - [... Create VSCode TOC](#-create-vscode-toc)
 - [Chrome extension](#chrome-extension)
+- [Android extension, Use with GitHub](#android-extension-use-with-github)
 - [Inline images](#inline-images)
 - [Image size control](#image-size-control)
 - [Tables with long text in each cell](#tables-with-long-text-in-each-cell)
@@ -37,7 +38,11 @@ To set options, select Extensions button on browser toolbar, Manage extensions, 
 
 TOC generated using VSCode extension "Markdown All in One" works with this chrome extension.
 
+## Android extension, Use with GitHub
 
+Google play store - Markdown Editor and Reader, Julian Lau. This seems to be active when open an .md file in the browser.
+
+To view a .md file from a GitHub repository, open GitHub for Android, Select Repositories, Select the markdown repository, Select the main branch, Select Code, Select a .md file. The rendered view of this file is displayed.
 
 
 ## Inline images
