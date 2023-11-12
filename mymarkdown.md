@@ -112,7 +112,7 @@ Open VSCode in folder that will sync with remote repository
 Select Source Control Icon - Left side toolbar
 
 ![](02_Branch_bottomleft_main.jpg)
-![](01_initialize_repository.jpg)
+![](00_initialize_repository.jpg)
 
 After initialize, branch at bottom left shows main
 
