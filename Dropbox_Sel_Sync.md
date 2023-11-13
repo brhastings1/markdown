@@ -8,12 +8,11 @@ Select avatar (profile picture or initials)
 
 ![](Dropbox_02_Select_Avatar.jpg)
 
-Select Preferences from menu
+Select Preferences from menu.
 
+![](Dropbox_03_Dropbox_preferences.jpg)
 
-![](Dropbox_03_Dropbox_Preferences.jpg)
-
-The preferences dialogue opens
+ The preferences dialogue opens.
 
 ![](Dropbox_04_Dropbox_preferences.jpg)
 
