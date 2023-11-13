@@ -33,6 +33,9 @@ Deselect folders that want only available online and select Update.
 
 All selected folders have a local copy on Local PC. All deselected folders are only kept on dropbox.com
 
+![](Dropbox_03_Dropbox_preferences.jpg)
+
+
 
 
 
