@@ -182,6 +182,8 @@ Select the check mark beside the Source Control title
 After commit is complete, option to Sync Changes appears
 Select Sync Changes to push to github
 
+[Markdown Summary](#vscode-markdown-summary)
+
 [Markdown Summary](#markdown-summary)
 
 [top of page](#top-of-page)
