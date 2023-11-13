@@ -1,5 +1,5 @@
 
-<h2 align="center"> VSCode Markdown Summary </h1>
+<h2 align="center" id="top-of-page"> VSCode Markdown Summary </h1>
 
 - [Markdown Summary](#markdown-summary)
 - [Create Markdown File](#create-markdown-file)
@@ -179,8 +179,11 @@ After a commit, when a file is changed, on the source control tab the changes wi
 Select the "+" beside the Changes title to stage all change
 Enter a Commit message in the message text box
 Select the check mark beside the Source Control title
-After commit is complete, option to sync to github appears
-Select sync to github
+After commit is complete, option to Sync Changes appears
+Select Sync Changes to push to github
+
+[top of page](#top-of-page)
+
 
 
 
