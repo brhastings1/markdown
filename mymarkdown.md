@@ -14,6 +14,7 @@
 - [Use Tables to render text beside an image](#use-tables-to-render-text-beside-an-image)
 - [Git-hub Setup and Use](#git-hub-setup-and-use)
 - [Initialize folder to reflect repository](#initialize-folder-to-reflect-repository)
+- [Push to Git-Hub after Initial Setup](#push-to-git-hub-after-initial-setup)
 
 
 ## Markdown Summary
@@ -171,7 +172,15 @@ To commit, add a message describing the change that is being committed.
 
 Select check mark above commit description, to commit.  This commits locally. After commit with the check mark, will see a button to publish the commit to GitHub. Click allow on dialogue, authorization process starts, give GitHub permission to open VSCode. Choose repository type as public, then can open on GitHub.
 
+## Push to Git-Hub after Initial Setup
 
+After a commit, when a file is changed, on the source control tab the changes will be listed.
+
+Select the "+" beside the Changes title to stage all change
+Enter a Commit message in the message text box
+Select the check mark beside the Source Control title
+After commit is complete, option to sync to github appears
+Select sync to github
 
 
 
