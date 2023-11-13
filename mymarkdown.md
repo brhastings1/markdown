@@ -68,7 +68,7 @@ Open command pallet with Ctrl-Shift-P. In command pallet, type "Create Table of 
 
 To update TOC after adding new header elements. Ctrl-Shift-P, "Update Table of Contents" (Markdown all in One:Update Table of Contents)
 
-Seems to work best if use same header levels throughout. Having on single # at the end only generates TOC for that item.
+Seems to work best if use same header levels throughout. Having on single # at the end only generates TOC for that item. This may because a single # is the highest level header (H1) and so it starts with that one.
 
 ## Chrome extension
 
