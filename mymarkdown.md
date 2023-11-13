@@ -1,5 +1,7 @@
-<h1 align="center"> VSCode Markdown Summary </h1>
 
+<h2 align="center"> VSCode Markdown Summary </h1>
+
+- [Markdown Summary](#markdown-summary)
 - [Create Markdown File](#create-markdown-file)
 - [Preview Markdown File](#preview-markdown-file)
 - [VSCode extension](#vscode-extension)
@@ -13,8 +15,8 @@
 - [Git-hub Setup and Use](#git-hub-setup-and-use)
 - [Initialize folder to reflect repository](#initialize-folder-to-reflect-repository)
 
-## Markdown Summary
 
+## Markdown Summary
 |Element| |Markdown|
 |:-------:|---|:--------|
 |Block quote| |add > and 1 space before text|
@@ -43,6 +45,7 @@
 |Unordered List| |asterisk and space before list text|
 |Unordered SubList| |indented asterisk and space before list text|
 |Table justify| | :--- left, ---: right, :---: center |
+|Center Heading| | `<h2 align="center"> VSCode Markdown Summary </h1>` |
 
 ## Create Markdown File
 Create a new file with the extension .md - Shows Markdown in bottom status bar at left -- <img src="markdown_statusbar.jpg" width="120" />
@@ -61,6 +64,10 @@ Place cursor a place in file where want TOC to be inserted.
 
 Run command "Create Table of Contents" (in the VS Code Command Palette) to insert a new table of contents ...
 Open command pallet with Ctrl-Shift-P. In command pallet, type "Create Table of Contents"
+
+To update TOC after adding new header elements. Ctrl-Shift-P, "Update Table of Contents" (Markdown all in One:Update Table of Contents)
+
+Seems to work best if use same header levels throughout. Having on single # at the end only generates TOC for that item.
 
 ## Chrome extension
 
@@ -136,7 +143,7 @@ Use img tag in a table to place text beside an image; control the size with the 
 |-----|-----|
 |This is some text that you want to have next to an image. Control the image size by adjusting the image width property.| <img src="markdown_statusbar.jpg" width="400" /> |
 
-# Git-hub Setup and Use
+## Git-hub Setup and Use
 
 ## Initialize folder to reflect repository
 
