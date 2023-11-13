@@ -10,6 +10,7 @@ Select avatar (profile picture or initials)
 
 Select Preferences from menu
 
+
 ![](Dropbox_03_Dropbox_Preferences.jpg)
 
 The preferences dialogue opens
