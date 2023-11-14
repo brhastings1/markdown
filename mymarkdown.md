@@ -49,7 +49,7 @@
 |Center Heading| | `<h2 align="center"> VSCode Markdown Summary </h1>` |
 
 ## Create Markdown File
-Create a new file with the extension .md - Shows Markdown in bottom status bar at left -- <img src="markdown_statusbar.jpg" width="120" />
+Create a new file with the extension .md - Shows Markdown in bottom status bar at left -- <img src="Md_images/markdown_statusbar.jpg" width="120" />
 
 ## Preview Markdown File
 
@@ -92,12 +92,12 @@ Place an image using ![]() after text with no line break and image in rendered i
 ***<u>Markdown:</u>***
 
 ```
-Create a new file with the extension .md - Shows Markdown in bottom status bar at left ![](markdown_statusbar.jpg) 
+Create a new file with the extension .md - Shows Markdown in bottom status bar at left ![](Md_images/markdown_statusbar.jpg) 
 ```
 
 ***<u>Renders:</u>***
 
-Create a new file with the extension .md - Shows Markdown in bottom status bar at left ![](markdown_statusbar.jpg) 
+Create a new file with the extension .md - Shows Markdown in bottom status bar at left ![](Md_images/markdown_statusbar.jpg) 
 
 ## Image size control
 
@@ -109,7 +109,7 @@ Can replace markdown ```![]()``` with:
 
 ***<u>Renders:</u>***
 
-Inline text before image -- <img src="markdown_statusbar.jpg" width="135" /> --size controlled by width property.
+Inline text before image -- <img src="Md_images/markdown_statusbar.jpg" width="135" /> --size controlled by width property.
 
 ## Tables with long text in each cell
 
@@ -136,13 +136,13 @@ Use img tag in a table to place text beside an image; control the size with the 
 ```markdown
 |  | |
 |-----|-----|
-|This is some text that you want to have next to an image. Control the image size by adjusting the image width property.| <img src="markdown_statusbar.jpg" width="600" /> |
+|This is some text that you want to have next to an image. Control the image size by adjusting the image width property.| <img src="Md_images/markdown_statusbar.jpg" width="600" /> |
 ```
 
 ***<u>Renders:</u>***
 |  | |
 |-----|-----|
-|This is some text that you want to have next to an image. Control the image size by adjusting the image width property.| <img src="markdown_statusbar.jpg" width="400" /> |
+|This is some text that you want to have next to an image. Control the image size by adjusting the image width property.| <img src="Md_images/markdown_statusbar.jpg" width="400" /> |
 
 ## Git-hub Setup and Use
 
@@ -151,24 +151,24 @@ Use img tag in a table to place text beside an image; control the size with the 
 Open VSCode in folder that will sync with remote repository
 Select Source Control Icon - Left side toolbar
 
-![](00_Initialize_repository.jpg)
+![](Md_images/00_Initialize_repository.jpg)
 
 After initialize, branch at bottom left shows main
 
-![](02_Branch_bottomleft_main.jpg)
+![](Md_images/02_Branch_bottomleft_main.jpg)
 
 To change name to something different, open command pallet with shift-Cmd-P and type Rename Branch, enter new name and new name shows at lower left in place of main.
 
 
 In source control, files show with "U" to indicate unstaged
 
-![](03_Files_show_unnamed.jpg)
+![](Md_images/03_Files_show_unnamed.jpg)
 
 Select "+" beside "Changes" to add all to staging area or the "+" beside the individual files to stage one file. "U" changes to "A" to indicated has been added to staging area.
 
 To commit, add a message describing the change that is being committed.
 
-![](04_Commit_desc.jpg)
+![](Md_images/04_Commit_desc.jpg)
 
 Select check mark above commit description, to commit.  This commits locally. After commit with the check mark, will see a button to publish the commit to GitHub. Click allow on dialogue, authorization process starts, give GitHub permission to open VSCode. Choose repository type as public, then can open on GitHub.
 
