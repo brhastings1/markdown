@@ -19,6 +19,8 @@ Dialogue opens to configure GitHub - specify how to login, use gmail for login t
 
 ![](GH_pull_images/03_Configure_Git.jpg)
 
+## Clone Repository after Initial Installation
+
 Let's get started dialogue opens.
 
 ![](GH_pull_images/04_Lets_get_started_dialogue.jpg)
@@ -62,18 +64,21 @@ The Clone a Repository dialogue opens as described above.
 
 Choose a repository and a new local path where the repository will be created.
 
+## Open a Repository Folder in VSCode
+
+Right click on the repository folder and select Open with Code from the Context Menu
+
+![](GH_pull_images/10_Select_open_with_Code_context_menu.jpg)
+
+As an alternative, open the repository folder. In the address bar type cmd and press enter. A command prompt will open pointed at this folder.
+
+![](GH_pull_images/11_type_cmd_at_command_prompt.jpg)
+
+At the command prompt type: "code", a space and a period and press enter.
+
+![](GH_pull_images/12_type_cmd._in_terminal.jpg)
+
 End of document
-
-
-
-
-
-
-
-
-
-
-
 
 
 
