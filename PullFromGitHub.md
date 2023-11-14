@@ -37,9 +37,32 @@ The first time Windows Security may prevent folder access and Clone failed may a
 
 ![](GH_pull_images/06_Clone_failed_Retry_clone.jpg)
 
-When the windows security popup appears, select it and allow access. The click on Retry clone. The cloning process will start. A local folder with the repo name will be created and the Repo will show in GitHub Desktop.
+When the windows security popup appears, select it and allow access. The click on Retry clone. The Cloning process starts and the Cloning dialogue opens during the cloning process.
+
+![](GH_pull_images/09_File_Cloning.jpg)
+
+A local folder with the repo name will be created and the Repo will show in GitHub Desktop.
+
+![](GH_pull_images/07_Open_in_VSCode.jpg)
+
 
 Select the option to Open in Visual Studio code. VSCode opens with the repo that has been cloned from github.com.
+
+## Clone a Different Repo from Internet After Setup Complete
+
+To clone a different repo from the internet after GitHub desktop was previously setup, open GitHub Desktop.
+
+On the file menu select Clone repository
+
+![](GH_pull_images/08_File_Clone_Repository.jpg)
+
+The Clone a Repository dialogue opens as described above. 
+
+![](GH_pull_images/05_clone_a_repository_dialogue.jpg)
+
+Choose a repository and a new local path where the repository will be created.
+
+End of document
 
 
 
