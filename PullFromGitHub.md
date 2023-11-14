@@ -1,3 +1,10 @@
+<h2 align="center"> Clone From github.com to Local PC</h2>
+
+- [Clone from github.com to Local PC - initial Setup](#clone-from-githubcom-to-local-pc---initial-setup)
+- [Install GitHub Desktop on Local PC](#install-github-desktop-on-local-pc)
+- [Clone Repository after Initial Installation](#clone-repository-after-initial-installation)
+- [Clone a Different Repo from Internet After Setup Complete](#clone-a-different-repo-from-internet-after-setup-complete)
+- [Open a Repository Folder in VSCode](#open-a-repository-folder-in-vscode)
 ## Clone from github.com to Local PC - initial Setup
 
 Create a folder on local PC that will hold the repo from github.com. After cloning is complete, a new folder will be placed here as part of the clone process.
@@ -77,6 +84,10 @@ As an alternative, open the repository folder. In the address bar type cmd and p
 At the command prompt type: "code", a space and a period and press enter.
 
 ![](GH_pull_images/12_type_cmd._in_terminal.jpg)
+
+
+[return to top](#clone-from-githubcom-to-local-pc---initial-setup)
+
 
 End of document
 
