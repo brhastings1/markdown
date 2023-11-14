@@ -16,6 +16,7 @@
 - [Initialize folder to reflect repository](#initialize-folder-to-reflect-repository)
 - [Push to Git-Hub after Initial Setup](#push-to-git-hub-after-initial-setup)
 - [YouTube Resources](#youtube-resources)
+- [Online Markdown Syntax Guide](#online-markdown-syntax-guide)
 
 
 ## Markdown Summary
@@ -192,6 +193,11 @@ Select Sync Changes to push to github
 [James Quick, Introduction to Markdown in VSCode](https://www.youtube.com/watch?v=pTCROLZLhDM&list=PLBfJC7Bp3osOtD4x0PwVAmELjoJNgd80o&index=3)
 
 [codeSTACKr Markdown Tips & Tricks](https://www.youtube.com/watch?v=ftOBvusMHjQ&list=PLBfJC7Bp3osOtD4x0PwVAmELjoJNgd80o&index=5)
+
+***
+## Online Markdown Syntax Guide
+
+[markdownguide.org Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ***
 
