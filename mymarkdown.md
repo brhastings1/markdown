@@ -15,6 +15,7 @@
 - [Git-hub Setup and Use](#git-hub-setup-and-use)
 - [Initialize folder to reflect repository](#initialize-folder-to-reflect-repository)
 - [Push to Git-Hub after Initial Setup](#push-to-git-hub-after-initial-setup)
+- [YouTube Resources](#youtube-resources)
 
 
 ## Markdown Summary
@@ -181,6 +182,18 @@ Enter a Commit message in the message text box
 Select the check mark beside the Source Control title
 After commit is complete, option to Sync Changes appears
 Select Sync Changes to push to github
+
+## YouTube Resources
+
+[5 Tips for Note Taking with VS Code & Git](https://www.youtube.com/watch?v=Hgucu1ch3mo&list=PLBfJC7Bp3osOtD4x0PwVAmELjoJNgd80o&index=2)
+
+[Web Dev Simplified, only markdown crash course you will ever need](https://www.youtube.com/watch?v=_PPWWRV6gbA&list=PLBfJC7Bp3osOtD4x0PwVAmELjoJNgd80o&index=1)
+
+[James Quick, Introduction to Markdown in VSCode](https://www.youtube.com/watch?v=pTCROLZLhDM&list=PLBfJC7Bp3osOtD4x0PwVAmELjoJNgd80o&index=3)
+
+[codeSTACKr Markdown Tips & Tricks](https://www.youtube.com/watch?v=ftOBvusMHjQ&list=PLBfJC7Bp3osOtD4x0PwVAmELjoJNgd80o&index=5)
+
+
 
 [Markdown Summary](#markdown-summary)
 
