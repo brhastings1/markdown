@@ -193,9 +193,9 @@ Select Sync Changes to push to github
 
 [codeSTACKr Markdown Tips & Tricks](https://www.youtube.com/watch?v=ftOBvusMHjQ&list=PLBfJC7Bp3osOtD4x0PwVAmELjoJNgd80o&index=5)
 
+***
 
-
-[Markdown Summary](#markdown-summary)
+[return to Markdown Summary](#markdown-summary)
 
 end of document
 
