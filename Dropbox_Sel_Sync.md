@@ -1,4 +1,4 @@
-## Remove Local Files in Dropbox
+## Remove Local Files in Dropbox, Keep on Dropbox.com
 
 Procedure to Remove files from Local Computer in Dropbox but do ***NOT*** remove them from Dropbox.com.
 
