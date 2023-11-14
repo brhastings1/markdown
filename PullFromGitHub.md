@@ -22,6 +22,8 @@ Select Download for Windows (64bit) and run exe file. GitHub desktop will open, 
 
 ![](GH_pull_images/02_Sign_in_to_GitHub.com.jpg)
 
+***
+
 Dialogue opens to configure GitHub - specify how to login, use gmail for login then select finish.
 
 ![](GH_pull_images/03_Configure_Git.jpg)
