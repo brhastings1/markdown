@@ -39,7 +39,7 @@ The first time Windows Security may prevent folder access and Clone failed may a
 
 When the windows security popup appears, select it and allow access. The click on Retry clone. The cloning process will start. A local folder with the repo name will be created and the Repo will show in GitHub Desktop.
 
-Select the option to Open in Visual Studio code. VSCode opens with the repo that has been cloned from github.com
+Select the option to Open in Visual Studio code. VSCode opens with the repo that has been cloned from github.com.
 
 
 
